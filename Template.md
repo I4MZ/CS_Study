@@ -1,6 +1,6 @@
 # 객체지향이란
 
-> 작성자 : [김이삭](https://github.com/Isak-toast)
+> 작성자 : [김이삭](https://github.com/Isak-toast),
 
 <details>
 <summary>Table of Contents</summary>
